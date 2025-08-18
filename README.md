@@ -19,8 +19,6 @@ To ensure the blocklist works as intended, it has been tested with the following
 - [Ad Blocker Test](https://paileactivist.github.io/toolz/adblock.html)  
 - [Network Protection Tester](https://itproexpert.com/network-protection-tester/)
 
-I will be providing **screenshots of the test results** for each of the above, showing successful blocking and filtering.
-
 ---
 
 ## 📸 Test Results
