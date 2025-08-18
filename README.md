@@ -29,16 +29,16 @@ Below are placeholder examples for test screenshots.
 Replace `your-screenshot.png` with your uploaded files in the repo (e.g., inside a `screenshots` folder).  
 
 ### Turtlecute Adblock Test
-![Turtlecute Test](screenshots/turtlecute.png)
+![Turtlecute Test](Screenshots/TurtecuteAdblockTest.jpg)
 
 ### Super Adblock Test
-![Super Adblock Test](screenshots/superadblock.png)
+![Super Adblock Test](Screenshots/SuperAdblockTest.jpeg)
 
 ### Ad Blocker Test
-![Ad Blocker Test](screenshots/adblocker.png)
+![Ad Blocker Test](Screenshots/AdBlockerTest.jpeg)
 
 ### Network Protection Tester
-![Network Protection Test](screenshots/networkprotection.png)
+![Network Protection Test](Screenshots/NetworkProtectionTester.jpeg)
 
 ---
 
