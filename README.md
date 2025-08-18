@@ -40,12 +40,13 @@ To ensure the blocklist works as intended, it has been tested with the following
 ## 📥 How to Use
 
 1. Download [`Unifi ultimate blocklist.txt`](./Unifi%20ultimate%20blocklist.txt).  
-2. Go to your **Unifi Controller** → **Settings** → **Internet Security** → **Content Filtering**.  
-3. Enable **Custom Blocklist**.  
-4. Either:
-   - Upload the `.txt` file, **or**
-   - Copy the raw text and paste it into the **Blocklist** field.  
-5. Save & apply changes.
+2. Go to your **Unifi Controller** → **Settings** → **CyberSecure** → **Content Filter**.  
+3. Click on **Create New**.
+4. In the section **Blocklist** ether:
+   - Add the domains one by one manually
+   - Click on **Add Multiple** and upload the `.txt` file, **or**
+   - Click on **Add Multiple** and copy the raw text and paste it into the **Blocklist** field.  
+6. Click on **Add**.
 
 ---
 
