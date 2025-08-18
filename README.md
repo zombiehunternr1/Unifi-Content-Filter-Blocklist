@@ -52,7 +52,7 @@ To ensure the blocklist works as intended, it has been tested with the following
 ## 🛡️ Features
 
 - Blocks **ads** across the majority of known networks.  
-- Protects against **malware and spyware** domains.  
+- Protects against **malware, trackers and spyware** domains.  
 - Prevents access to **pirate and illegal streaming sites**.  
 - Works seamlessly with Unifi’s **built-in Content Filter**.
 
