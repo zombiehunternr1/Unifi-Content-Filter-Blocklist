@@ -12,7 +12,7 @@ The blocklist is maintained in [`Unifi ultimate blocklist.txt`](./Unifi%20ultima
 
 ## ✅ Testing & Verification
 
-To ensure the blocklist works as intended, it has been tested with the following tools across **Edge**, **Chrome**, and **Brave** browsers:
+To ensure the blocklist works as intended, it has been tested with the following tools across **Edge** and **Chrome** browsers:
 
 - [Turtlecute Adblock Test](https://adblock.turtlecute.org/)  
 - [Super Adblock Test](https://superadblocktest.com/)  
