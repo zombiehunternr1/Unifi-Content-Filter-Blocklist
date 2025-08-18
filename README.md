@@ -23,9 +23,6 @@ To ensure the blocklist works as intended, it has been tested with the following
 
 ## 📸 Test Results
 
-Below are placeholder examples for test screenshots.  
-Replace `your-screenshot.png` with your uploaded files in the repo (e.g., inside a `screenshots` folder).  
-
 ### Turtlecute Adblock Test
 ![Turtlecute Test](Screenshots/TurtecuteAdblockTest.jpg)
 
