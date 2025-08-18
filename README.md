@@ -1,7 +1,7 @@
 # Unifi Ultimate Blocklist
 
 This repository provides a **comprehensive blocklist** for the **Content Filter** option in **Unifi**.  
-It is designed to block most, if not all, recently known **ads, malware, spyware, and pirate sites**.
+It is designed to block most, if not all, recently known **ads, malware, trackers, spyware, and pirate sites**.
 
 The blocklist is maintained in [`Unifi ultimate blocklist.txt`](./Unifi%20ultimate%20blocklist.txt), which you can either:
 
