@@ -23,7 +23,7 @@ To cater to different user needs, two versions of the blocklist are available:
 
 ## 📥 How to Use
 
-1. Download the desired blocklist file mentioned above.
+1. Download the desired blocklist file (`Blocklist with torrent sites.txt` or `Blocklist without torrent sites.txt`).  
 2. Go to your **Unifi Controller** → **Settings** → **CyberSecure** → **Content Filter**.  
 3. Click **Create New**.  
 4. In the **Blocklist** section, either:
@@ -72,5 +72,5 @@ The blocklist has been tested with the following tools across **Edge** and **Chr
 
 ## ⚠️ Disclaimer
 
-These blocklists are provided **as-is**. While they blocks a wide range of unwanted domains, false positives may occur.  
+These blocklists are provided **as-is**. While they block a wide range of unwanted domains, false positives may occur.  
 Use at your own discretion and adjust the blocklist you choose according to your network needs.
