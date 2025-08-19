@@ -17,10 +17,6 @@ To cater to different user needs, two versions of the blocklist are available:
 - **Filename:** [`Blocklist without torrent sites.txt`](./Blocklist%20without%20torrent%20sites.txt)  
 - **Description:** This version excludes entries related to torrent and file-sharing sites. Suitable for networks where such services are permitted.
 
-
-**Download and upload** directly into the Unifi Controller under the Content Filter Blocklist, or  
-**Copy-paste the raw contents** into the Content Filter Blocklist field in your Unifi settings.
-
 ---
 
 ## ✅ Testing & Verification
