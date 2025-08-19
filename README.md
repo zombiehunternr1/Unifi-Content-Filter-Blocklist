@@ -23,7 +23,7 @@ To cater to different user needs, two versions of the blocklist are available:
 
 ## 📥 How to Use
 
-1. Download the desired blocklist file.  
+1. Download the desired blocklist file mentioned above.
 2. Go to your **Unifi Controller** → **Settings** → **CyberSecure** → **Content Filter**.  
 3. Click **Create New**.  
 4. In the **Blocklist** section, either:
