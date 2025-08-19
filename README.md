@@ -3,6 +3,8 @@
 This repository provides a **comprehensive blocklist** for the **Content Filter** option in **Unifi**.  
 It is designed to block most, if not all, recently known **ads, malware, trackers, spyware, and pirate sites**.
 
+---
+
 ## Available Versions
 
 To cater to different user needs, two versions of the blocklist are available:
@@ -19,9 +21,31 @@ To cater to different user needs, two versions of the blocklist are available:
 
 ---
 
+## 📥 How to Use
+
+1. Download the desired blocklist file.  
+2. Go to your **Unifi Controller** → **Settings** → **CyberSecure** → **Content Filter**.  
+3. Click **Create New**.  
+4. In the **Blocklist** section, either:
+   - Add the domains manually, or  
+   - Click **Add Multiple** and **upload the `.txt` file**, or  
+   - Click **Add Multiple** and **copy-paste the raw text** into the field.  
+5. Click **Add** to save.
+
+---
+
+## 🛡️ Features
+
+- Blocks **ads** across the majority of known networks.  
+- Protects against **malware, trackers, and spyware** domains.  
+- Prevents access to **pirate and illegal streaming sites**.  
+- Works seamlessly with Unifi’s **built-in Content Filter**.
+
+---
+
 ## ✅ Testing & Verification
 
-To ensure the blocklist works as intended, it has been tested with the following tools across **Edge** and **Chrome** browsers:
+The blocklist has been tested with the following tools across **Edge** and **Chrome** browsers:
 
 - [Turtlecute Adblock Test](https://adblock.turtlecute.org/)  
 - [Super Adblock Test](https://superadblocktest.com/)  
@@ -46,29 +70,7 @@ To ensure the blocklist works as intended, it has been tested with the following
 
 ---
 
-## 📥 How to Use
-
-1. Download [`Unifi ultimate blocklist.txt`](./Unifi%20ultimate%20blocklist.txt).  
-2. Go to your **Unifi Controller** → **Settings** → **CyberSecure** → **Content Filter**.  
-3. Click on **Create New**.
-4. In the section **Blocklist** ether:
-   - Add the domains one by one manually
-   - Click on **Add Multiple** and upload the `.txt` file, **or**
-   - Click on **Add Multiple** and copy the raw text and paste it into the **Blocklist** field.  
-6. Click on **Add**.
-
----
-
-## 🛡️ Features
-
-- Blocks **ads** across the majority of known networks.  
-- Protects against **malware, trackers and spyware** domains.  
-- Prevents access to **pirate and illegal streaming sites**.  
-- Works seamlessly with Unifi’s **built-in Content Filter**.
-
----
-
 ## ⚠️ Disclaimer
 
-This blocklist is provided **as-is**. While it blocks a wide range of unwanted domains, false positives may occur.  
-Use at your own discretion and adjust the blocklist according to your network needs.
+These blocklists are provided **as-is**. While they blocks a wide range of unwanted domains, false positives may occur.  
+Use at your own discretion and adjust the blocklist you choose according to your network needs.
