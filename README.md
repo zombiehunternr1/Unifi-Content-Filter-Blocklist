@@ -45,7 +45,7 @@ To cater to different user needs, two versions of the blocklist are available:
 
 ## ✅ Testing & Verification
 
-The blocklist has been tested with the following tools across **Edge** and **Chrome** browsers:
+These blocklists have been tested with the following tools across **Edge** and **Chrome** browsers:
 
 - [Turtlecute Adblock Test](https://adblock.turtlecute.org/)  
 - [Super Adblock Test](https://superadblocktest.com/)  
