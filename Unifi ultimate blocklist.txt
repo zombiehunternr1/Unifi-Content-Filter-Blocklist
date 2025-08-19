@@ -95,6 +95,11 @@ add0n.com
 adit-hd.com
 adorocinematorrent.com
 ads.facebook.com
+ads.pinterest.com
+ads.reddit.com
+ads.tiktok.com
+ads.youtube.com
+ads-api.twitter.com
 adult-cinema-network.net
 adultsins.net
 advertising.apple.com
@@ -1222,6 +1227,7 @@ hon3yhd.net
 hongfire.com
 horriblesubs.info
 horrorcharnel.kicks-ass.org
+hotjar-analytics.com
 hotne.ws
 hot-torrents.org
 hox.com.br
@@ -1807,6 +1813,7 @@ p2ptorrents.net
 p2pworlds.co.uk
 p4p.arenabg.ch
 p4p.arenabg.com
+pagead2.googlesyndication.com
 pahe.in
 pale-xvid.com
 panda.cd
