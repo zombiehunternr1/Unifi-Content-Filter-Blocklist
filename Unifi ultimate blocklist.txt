@@ -90,6 +90,7 @@ acg.rip
 acglover.top
 acgnx.se
 acgsou.com
+ad.doubleclick.net
 adamsfile.com
 add0n.com
 adit-hd.com
@@ -1486,6 +1487,7 @@ loushao.net
 lovethescene.net
 lsd-tracker.eu
 lunatech.zaeleus.org
+m.doubleclick.net
 m2ktalk.com
 m4ufree.tv
 mabula.net
@@ -1534,6 +1536,7 @@ media.fastclick.net
 mediaclub.tv
 media-sharing.com
 media-torrent.org
+mediavisor.doubleclick.net
 medthermography.com
 mega-bits.com
 megaddl.co
@@ -2352,6 +2355,8 @@ srbijaclub.com
 ssanime.ga
 stanthecaddy.com
 starshare.ro
+static.doubleclick.net
+stats.g.doubleclick.net
 stmusic.org
 storethefiles.net
 streamhub.unblckd.bet
