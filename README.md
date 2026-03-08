@@ -51,6 +51,7 @@ These blocklists have been tested with the following tools across **Edge** and *
 - [Super Adblock Test](https://superadblocktest.com/)  
 - [Ad Blocker Test](https://paileactivist.github.io/toolz/adblock.html)  
 - [Network Protection Tester](https://itproexpert.com/network-protection-tester/)
+- [Obfusgated Ad Block Test](https://obfusgated.com/tools/ad-block-test)
 
 ---
 
