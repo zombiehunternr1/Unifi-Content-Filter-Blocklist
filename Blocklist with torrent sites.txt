@@ -94,11 +94,16 @@ ad.doubleclick.net
 adamsfile.com
 add0n.com
 adit-hd.com
+adjust.com
 adorocinematorrent.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
 ads.facebook.com
+ads.microsoft.com
 ads.pinterest.com
 ads.reddit.com
 ads.tiktok.com
+ads.yahoo.com
 ads.youtube.com
 ads-api.twitter.com
 adult-cinema-network.net
@@ -106,6 +111,8 @@ adultsins.net
 advertising.apple.com
 advertising.twitter.com
 advertising-api-eu.amazon.com
+adtech.yahooinc.com
+adserver.unityads.unity3d.com
 af.feedroom.com
 affiliationjs.s3.amazonaws.com
 afsanctuary.no-ip.org
@@ -142,6 +149,11 @@ ambits.org
 americansoccerarchives.com
 analytics.facebook.com
 analytics-api.samsunghealthcn.com
+analyticsengine.s3.amazonaws.com
+analytics.query.yahoo.com
+analytics.s3.amazonaws.com
+afs.googlesyndication.com
+an.facebook.com
 anbudom.net
 androidkino.org
 androidrookies.com
@@ -207,13 +219,18 @@ ankeschwarz.net
 antsmarching.org
 anvilofsound.com
 api.bugsnag.com
+api.fyber.com
 api.luckyorange.com
+api.optimizely.com
+api.viglink.com
+api.vungle.com
 api-adservices.apple.com
 apibay.gq
 apnaview.unblocked.llc
 app.bugsnag.com
 app.getsentry.com
 appmetrica.yandex.ru
+applovin.com
 apptracker.org
 appz.bitshock.org
 appzuniverse.org
@@ -242,6 +259,7 @@ assasin-torrents.co.uk
 atomico-torrent.com
 atrack.pow7.com
 atrack-asia-s1.114913.xyz
+auction.unityads.unity3d.com
 audiobit.ru
 audiobookbay.is
 audiobookbay.la
@@ -351,6 +369,7 @@ bigtracker.org
 bikkuri-torrent.com
 bilibt.com
 bindassdesi.com
+bingads.microsoft.com
 biotorrents.net
 bit.ruabruam.com
 bit66.com
@@ -458,6 +477,7 @@ blu-torrents.net
 bmtorrents.net
 bmwfilms.com
 bnbteasytracker.sourceforge.net
+bnc.lt
 board.anime-miako.to
 boatairproxy.org
 boatbay.club
@@ -604,9 +624,16 @@ catbox.moe
 cattorrent.co.uk
 cbc.ca
 ccfbits.org
+cdn.indexexchange.com
 cdn.luckyorange.com
+cdn.privacy-mgmt.com
 cdn.retget.ru
+cdn.viglink.com
 cdn-test.mouseflow.com
+cdn.cookielaw.org
+cdn.dynamicyield.com
+cdn.mouseflow.com
+cdn.optimizely.com
 ceasers-palace.info
 celtikmt2.altervista.org
 central-torrent.eu
@@ -651,6 +678,7 @@ citytorrent.net
 civilization-site.hu
 cixxo.ch
 classicdvd.mine.nu
+click.googleanalytics.com
 click.oneplus.cn
 clonebits.org
 club-mst3k.com
@@ -678,9 +706,11 @@ comictorrent.net
 commonbits.org
 concen.org
 concerttrader.com
+config.unityads.unity3d.com
 connection.lt
 conspiracycentral.net
 conspiracyhub.com
+consent.trustarc.com
 contego.ws
 convivea.com
 coolmoviejagg.pro
@@ -711,6 +741,7 @@ cuteyhoneyflash.de
 cyber12.com
 cyberbytez.cjb.net
 cztorrent.net
+d.applovin.com
 d.reddit.com
 d1la028jgo7s1ql06100ompri631xr6a1.oast.site
 d-addicts.com
@@ -731,6 +762,7 @@ darmowe-torenty.pl
 darmowe-torrenty.com.pl
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 data-bg.net
 data-force.net
 datagalaxy.tk
@@ -1013,6 +1045,7 @@ filmsbt.com
 filmstorrent.xyz
 filmxy.nl
 finbytes.org
+fingerprintjs.com
 findtorrentfiles.com
 finpirates.org
 finvip.org
@@ -1076,6 +1109,7 @@ funkytorrents.com
 funsharing.net
 fyber.org
 g.e-hentai.org
+g.jwpsrv.com
 galacticcentral.org
 gamato.info
 game3rb.com
@@ -1101,6 +1135,7 @@ gazellegames.net
 gctracker.mine.nu
 gdlo.serveftp.net
 gdtorrent.com
+gemini.yahoo.com
 gendou.com
 geotorrents.com
 gerusama.fansub-torrents.com
@@ -1124,6 +1159,7 @@ glorybits.org
 glotorrents.pw
 glotorrents.unblocked.llc
 gmt-max.org
+go.skimresources.com
 goem.org
 gogoanime.in
 goldenshara.com
@@ -1136,6 +1172,7 @@ gotwoot.net
 grabthe.info
 grantorrent.nl
 grc.com
+greatis.com
 greekshare.net
 greek-torrent.net
 greek-tracker.com
@@ -1248,6 +1285,7 @@ i-29.b-45505.ut.bench.utorrent.com
 i-32.b-45505.ut.bench.utorrent.com
 i-43.b-45505.ut.bench.utorrent.com
 i-64.b-45505.ut.bench.utorrent.com
+iadsdk.apple.com
 ibiblio.org
 ibit.am
 ibit.to
@@ -1269,10 +1307,12 @@ ilcorsaronero.info
 ilovetorrents.com
 immortalseed.com
 immortaltorrent.pl
+impact.com
 impulsive.hu
 imtorrents.com
 indep.eu
 index.plan9.de
+indexexchange.com
 indiaboat.art
 indiaboat.club
 indietorrents.com
@@ -1287,13 +1327,17 @@ intermedio.ro
 interporno.ru
 interviewfor.red
 intilo.com
+init.supersonicads.com
 investingtorrents.com
+iot-eu-logser.realme.com
+iot-logser.realme.com
 iplay.ro
 ipmart-forum.com
 iptest.malwarebytes.com
 iptorrents.com
 ipv4.tracker.harry.lu
 ipv6.torrent.ubuntu.com
+ironSource.mobi
 iraniantorrents.com
 irishtorrents.com
 iscariote.edwardk.info
@@ -1335,8 +1379,10 @@ joytorrent.com
 joytorrent.xyz
 jpopsuki.eu
 jshdtv.cn
+js.driftt.com
 juegostorrentpc.net
 juicybitz.net
+juicyads.com
 jukebox-heaven.co.uk
 july25.com
 jungleland.dnsalias.com
@@ -1435,6 +1481,7 @@ lickmytaint.com
 lien-torrent.com
 lifanmoe.net
 lifeproxy.tel
+liftoff.io
 limetor.com
 limetor.pro
 limetorrent.ws
@@ -1465,6 +1512,7 @@ linuxmoviemania.org
 linuxtracker.org
 litebay.org
 litenova.co.uk
+live.chartboost.com
 livesx.eu
 livetorrents.com
 livetv.unblckd.bet
@@ -1655,6 +1703,7 @@ mpg.de
 mpggalaxy.mine.nu
 mpn.freehostia.com
 mrtwig.net
+ms.applovin.com
 muaythaitorrents.com
 multiki.arjlover.net
 multi-torrent.ru
@@ -1728,6 +1777,7 @@ nordic-t.org
 norgesbyte.net
 norgestorrenten.org
 nostalgic.is
+notes-analytics-events.apple.com
 novaset.net
 noviteti.com
 nowarez.se
@@ -1795,6 +1845,7 @@ otorrents.com
 otorrents.unblocked.llc
 otxataba.net
 ourbd.net
+outcome-ssp.supersonicads.com
 outlaw.lv
 outragedmoderates.org
 over-easy.net
@@ -1821,8 +1872,10 @@ pahe.in
 pale-xvid.com
 panda.cd
 pandopuntokualda.com
+pangleglobal.com
 pan-share.org
 pantherabits.com
+partnerads.ysm.yahoo.com
 paranetinfo.com
 parliamentlive.tv
 partis.si
@@ -1943,6 +1996,7 @@ piratic.org
 pirator.org
 pirlog.com
 pisexy.org
+pixel.quantserve.com
 pitbulltorrent.eu
 pj.sidewalkcrusaders.com
 pjdark-torrent.com
@@ -2037,6 +2091,7 @@ psytorrents.info
 ptanime.net
 pte.nu
 ptfiles.org
+pubads.g.doubleclick.net
 publicdomaintorrents.com
 publichd.se
 publiclibrary.metamute.org
@@ -2054,6 +2109,8 @@ pythons-lair.com
 qbittorrent.org
 qemist.info
 qg.lorzl.gq
+quantcast.com
+quantserve.com
 qtorrents.net
 quorks.ath.cx
 quorks.com
@@ -2118,6 +2175,8 @@ realtorrent.info
 rebelsarea.com
 rebeltorrent.net
 redacted.ch
+redirect.viglink.com
+redirector.googlevideo.com
 redpiraat.net
 redskunk.org
 reggae-lossless.no-ip.org
@@ -2163,6 +2222,7 @@ romaniatorrent.ro
 router.utorrent.com
 royal-orleans.com
 rstorrent.org.pl
+rt.applovin.com
 rt.tace.ru
 rtorrent.net
 rulu.co
@@ -2175,7 +2235,9 @@ rutracker.org
 rutracker.ru
 rutracker.wiki
 s.yoooo.co
+s.youtube.com
 s1.rg-mechanics.org
+s.skimresources.com
 s1.torrents-igruha.org
 s93146559.onlinehome.us
 safepeer.info
@@ -2224,6 +2286,7 @@ search-torrent.com
 searlecom.homeip.net
 secret-cinema.com
 secure.pow7.com
+securepubads.g.doubleclick.net
 seductiongr.com
 seedbits.org
 seedboxs.me
@@ -2353,6 +2416,7 @@ spynova.net
 spzang.org
 srbijaclub.com
 ssanime.ga
+ssl.p.jwpcdn.com
 stanthecaddy.com
 starshare.ro
 static.doubleclick.net
@@ -2412,6 +2476,7 @@ t1.pow7.com
 t2.pow7.com
 t3nnis.tv
 tacker.hdclub.com.ua
+tagmanager.google.com
 takeabyte.org
 tamilrockers.ws
 tamiltorrents.net
@@ -2552,6 +2617,7 @@ thesurgeons.org
 theswarm.me
 thetorrentsource.org
 thetracker.org
+thetradedesk.com
 thetradersden.org
 thevault.bz
 the-wizards-lounge.com
@@ -2963,6 +3029,7 @@ tpbpiratebayproxy.com
 tpbpiratenbucht.eu
 tpbproxy.click
 tpbproxypirate.com
+tpc.googlesyndication.com
 tr.bangumi.moe
 tr.cili001.com
 tr.kxmp.cf
@@ -3143,6 +3210,7 @@ trackermx.com
 trackerturk.biz
 trackerx.com.ar
 trackerzone.co.uk
+tracking.rus.miui.com
 trader.speed-share.org
 traht.org
 trakx.herokuapp.com
@@ -3245,6 +3313,7 @@ uniongang.tv
 unionpeer.org
 unique-tracker.com
 uniteam.co
+unityads.unity3d.com
 unlimited-tracker.net
 unlockedpiratebay.com
 unlockpiratebay.net
@@ -3305,6 +3374,7 @@ vps02.net.orel.ru
 vps2.avc.cx
 vstorrent.org
 vt5.visual-team.ro
+vungle.com
 vuze.com
 w1.luckyorange.com
 w13.monkrus.ws
@@ -3328,6 +3398,7 @@ watchtvseries.unblckd.bet
 watchtvseries.unblckd.club
 wawatorrent.com
 weareproxylist.net
+weather-analytics-events.apple.com
 wearethereal.ninja
 web1.nugs.net
 webcast.berkeley.edu
@@ -3336,6 +3407,7 @@ webranger.net
 webtorrent.io
 webtorrent.us
 webtorrents.com
+webview.unityads.unity3d.com
 weedy.1.vg
 welcometothescene.com
 westline.it.cx
@@ -3847,6 +3919,7 @@ youpornbook.com
 yourbittorrent.com
 youtor.org.uk
 youtorrent.com
+youtubei.googleapis.com
 ytorrent.org
 yts.ag
 yts.ai
