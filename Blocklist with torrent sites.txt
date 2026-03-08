@@ -99,9 +99,11 @@ adorocinematorrent.com
 ads-api.tiktok.com
 ads-sg.tiktok.com
 ads.facebook.com
+ads.huawei.com
 ads.microsoft.com
 ads.pinterest.com
 ads.reddit.com
+ads.roku.com
 ads.tiktok.com
 ads.yahoo.com
 ads.youtube.com
@@ -744,6 +746,7 @@ cztorrent.net
 d.applovin.com
 d.reddit.com
 d1la028jgo7s1ql06100ompri631xr6a1.oast.site
+dai.google.com
 d-addicts.com
 dalinkis.net
 damedesuyo.com
@@ -1547,6 +1550,7 @@ maczone.ro
 madcapjv.no-ip.com
 madeintorrent.com
 mad-jack.com
+mads-eu.amazon.com
 mafiabits.net
 magnet4you.me
 magnetdl.com
@@ -1867,6 +1871,7 @@ p2ptorrents.net
 p2pworlds.co.uk
 p4p.arenabg.ch
 p4p.arenabg.com
+pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pahe.in
 pale-xvid.com
@@ -2310,6 +2315,8 @@ series9.io
 seriesfilmestorrent.net
 seriesqc.net
 service-dkb.itsaol.com
+sessions.bugsnag.com
+settings-win.data.microsoft.com
 seventorrents.org
 seventorrents.unblocked.llc
 sexinsex.net
@@ -3367,6 +3374,7 @@ visionbits.net
 vmovee.me
 vodlocker.tv
 vodly.unblocked.llc
+vortex-win.data.microsoft.com
 vpn.flying-datacenter.de
 vpnfortorrents.page
 vpnmentor.com
@@ -3413,6 +3421,7 @@ welcometothescene.com
 westline.it.cx
 what.cd
 whotv.org
+widget.intercom.io
 widgets.pinterest.com
 wii-leech.info
 wiki.theppn.org
@@ -3879,6 +3888,7 @@ xhaos.no-ip.org
 xider.hu
 xie22.com
 xlist.ro
+xp.apple.com
 xpau.se
 xpresstorrent.com
 x-torrent.net

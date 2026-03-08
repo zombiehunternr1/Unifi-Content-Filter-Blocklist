@@ -63,9 +63,11 @@ ads-api.tiktok.com
 ads-api.twitter.com
 ads-sg.tiktok.com
 ads.facebook.com
+ads.huawei.com
 ads.microsoft.com
 ads.pinterest.com
 ads.reddit.com
+ads.roku.com
 ads.tiktok.com
 ads.yahoo.com
 ads.youtube.com
@@ -620,6 +622,7 @@ d-addicts.com
 d.applovin.com
 d.reddit.com
 d1la028jgo7s1ql06100ompri631xr6a1.oast.site
+dai.google.com
 dalinkis.net
 damedesuyo.com
 danger.lv
@@ -1180,6 +1183,7 @@ mabula.net
 maczone.ro
 mad-jack.com
 madcapjv.no-ip.com
+mads-eu.amazon.com
 mafiabits.net
 magnet4you.me
 magnetfox.org
@@ -1425,6 +1429,7 @@ p2pnet.net
 p2pworlds.co.uk
 p4p.arenabg.ch
 p4p.arenabg.com
+pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 pahe.in
 pale-xvid.com
@@ -1743,6 +1748,7 @@ series9.io
 seriesqc.net
 service-dkb.itsaol.com
 sessions.bugsnag.com
+settings-win.data.microsoft.com
 sexinsex.net
 sexy-pics.us
 sexybits.net
@@ -2301,6 +2307,7 @@ visionbits.net
 vmovee.me
 vodlocker.tv
 vodly.unblocked.llc
+vortex-win.data.microsoft.com
 vpn.flying-datacenter.de
 vpnmentor.com
 vps02.net.orel.ru
@@ -2340,6 +2347,7 @@ welcometothescene.com
 westline.it.cx
 what.cd
 whotv.org
+widget.intercom.io
 widgets.pinterest.com
 wii-leech.info
 wiki.theppn.org
@@ -2679,6 +2687,7 @@ xhaos.no-ip.org
 xider.hu
 xie22.com
 xlist.ro
+xp.apple.com
 xpau.se
 xtracker.hu
 xtraseed.com
