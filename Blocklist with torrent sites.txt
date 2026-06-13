@@ -1222,8 +1222,6 @@ gotwoot.net
 grabthe.info
 granarylane.eu
 grantorrent.nl
-graph.facebook.com
-graph.instagram.com
 grc.com
 greatis.com
 greek-torrent.net
@@ -1341,7 +1339,6 @@ i-32.b-45505.ut.bench.utorrent.com
 i-43.b-45505.ut.bench.utorrent.com
 i-64.b-45505.ut.bench.utorrent.com
 i-torrent.biz
-i.instagram.com
 iadsdk.apple.com
 ibiblio.org
 ibit.am

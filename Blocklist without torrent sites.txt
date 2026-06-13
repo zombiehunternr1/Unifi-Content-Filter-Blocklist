@@ -970,8 +970,6 @@ gostream.is
 gotwoot.net
 grabthe.info
 granarylane.eu
-graph.facebook.com
-graph.instagram.com
 grc.com
 greatis.com
 greek-tracker.com
@@ -1066,7 +1064,6 @@ ht-t.hu
 hungercity.org
 hunterbt.com
 hunterbtsex.com
-i.instagram.com
 iadsdk.apple.com
 ibiblio.org
 ibit.am
