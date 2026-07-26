@@ -112,12 +112,14 @@ ads.x.com
 ads.yahoo.com
 ads.youtube.com
 adserver.unityads.unity3d.com
+adtago.s3.amazonaws.com
 adtech.yahooinc.com
 adult-cinema-network.net
 adultsins.net
 advertising-api-eu.amazon.com
 advertising.apple.com
 advertising.twitter.com
+advice-ads.s3.amazonaws.com
 af.feedroom.com
 affiliationjs.s3.amazonaws.com
 afs.googlesyndication.com
@@ -159,6 +161,7 @@ an.facebook.com
 analytics-api.samsunghealthcn.com
 analytics.adobe.io
 analytics.facebook.com
+analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
 analytics.s3.amazonaws.com
 analytics.x.com
@@ -631,6 +634,7 @@ canadiantorrent.com
 canthlian.no-ip.org
 capital.cyberserver.hu
 carbon-bonsai-621.appspot.com
+careers.hotjar.com
 carpathians.hu
 cartman-2000.ath.cx
 cartoon-world.fansub-torrents.com
@@ -1594,6 +1598,7 @@ lostfilm.tv
 loushao.net
 lovethescene.net
 lsd-tracker.eu
+luckyorange.com
 lunatech.zaeleus.org
 luxeworldwidetravel.com
 m.doubleclick.net
@@ -1646,6 +1651,7 @@ medbit.ru
 media-sharing.com
 media-torrent.org
 media.fastclick.net
+media.net
 mediaclub.tv
 mediavisor.doubleclick.net
 medthermography.com
@@ -1680,6 +1686,7 @@ metallifukinca.com
 methlabs.org
 metrics-dra.dt.hicloud.com
 metrics.data.hicloud.com
+metrics.mzstatic.com
 metrics2.data.hicloud.com
 metrika.yandex.ru
 metro.netadicts.ro
@@ -1724,6 +1731,7 @@ monova.unblocked.llc
 monstertracker.pl
 moobs.hu
 motorworld.net
+mouseflow.com
 movcr.cc
 movi.ucoz.ro
 movidy.co
@@ -1842,6 +1850,7 @@ norgesbyte.net
 norgestorrenten.org
 nostalgic.is
 notes-analytics-events.apple.com
+notify.bugsnag.com
 novaset.net
 noviteti.com
 nowarez.se
@@ -1862,6 +1871,7 @@ nzb-chat.com
 nzbsrus.com
 nzone.com
 o0.ingest.sentry.io
+o2.mouseflow.com
 oabt06.com
 oakmovies.com
 obala-tracker.net
@@ -4109,4 +4119,4 @@ zooqle.p4y.space
 zooqle.proxyportal.pw
 zooqle.unblocked.llc
 zoozle.org
-ztracker.hu
+ztracker.huanalytics.google.com
