@@ -5149,6 +5149,7 @@ padsdel.com
 pafefey.com
 page.widget.zalo.me
 pagead.l.google.com
+pagead2.googlesyndication.com
 pagefair.com
 pageranktop.com
 pages-stats.rbl.ms
