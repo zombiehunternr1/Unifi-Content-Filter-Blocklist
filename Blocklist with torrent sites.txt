@@ -160,6 +160,7 @@ an.facebook.com
 analytics-api.samsunghealthcn.com
 analytics.adobe.io
 analytics.facebook.com
+analytics.google.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
 analytics.s3.amazonaws.com
