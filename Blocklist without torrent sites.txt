@@ -358,6 +358,7 @@ ad.allboxing.ru
 ad.altervista.org
 ad.daum.net
 ad.ddo.jp
+ad.doubleclick.net
 ad.dnoticias.pt
 ad.donanimhaber.com
 ad.duga.jp
@@ -4307,6 +4308,7 @@ lyopovaria.store
 lyticportfolio.com.102.122.2o7.net
 lytics.io
 lzjl.com
+m.doubleclick.net
 m.skimresources.com
 m.zedcdn.me
 m2.ai
@@ -4432,6 +4434,7 @@ mediative.ca
 mediative.com
 mediav.com
 mediavine.com
+mediavisor.doubleclick.net
 mediawayss.com
 mediaz.vn
 mediba.jp
@@ -6529,6 +6532,7 @@ static.adzerk.net
 static.agkn.com
 static.chartbeat.com
 static.clevertap.com
+static.doubleclick.net
 static.fleshlight.com
 static.foresee.com
 static.leadpages.net
@@ -6560,6 +6564,7 @@ stats.bannersnack.com
 stats.bluebillywig.com
 stats.coronalabs.com
 stats.datawrapper.de
+stats.g.doubleclick.net
 stats.hstatic.net
 stats.kaltura.com
 stats.merriam-webster.com
