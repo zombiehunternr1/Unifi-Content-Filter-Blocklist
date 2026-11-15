@@ -5654,6 +5654,7 @@ pub.skyads.com.vn
 pub1.co
 pub2srv.com
 pubads-wiinvent.tv360.vn
+pubads.g.doubleclick.net
 pubdirecte.com
 pubfuture-ssp.com
 public-gcs.subiz-cdn.com
