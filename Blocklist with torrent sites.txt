@@ -1356,6 +1356,7 @@ api.ning.com
 api.onesignal.com
 api.optimizely.com
 api.parse.com
+api.partnerstack.com
 api.player.xcal.tv
 api.privy.com
 api.revenuads.com
@@ -6226,6 +6227,7 @@ msjahanenterprise.com
 mslifelines.com.102.122.2o7.net
 msn.com.102.122.2o7.net
 msppl.hit.gemius.pl
+mssl.fwmrm.net
 mstar-ia.aimatch.com
 mtburn.com
 mtickets.shop
@@ -6929,6 +6931,7 @@ partnerads.ysm.yahoo.com
 partnercash.de
 partnerearning.com
 partnerprogramma.bol.com
+partnerstack.com
 parts-pros.com.102.122.2o7.net
 partstrain.102.122.2o7.net
 partstrain.122.2o7.net
@@ -8159,7 +8162,6 @@ s.richaudience.com
 s.sharethis.com
 s.skimresources.com
 s.webtrends.com
-s.youtube.com
 s.yoooo.co
 s.youtube.com
 s.zzcdn.me
@@ -9033,6 +9035,7 @@ t.marketing.goindigo.in
 t.nc0.co
 t.nyaatracker.com
 t.overflow.biz
+t.pepperjamnetwork.com
 t.ppnow.net
 t.sharethis.com
 t.skimresources.com

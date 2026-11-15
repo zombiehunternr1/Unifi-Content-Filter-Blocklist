@@ -1165,6 +1165,7 @@ api.ning.com
 api.onesignal.com
 api.optimizely.com
 api.parse.com
+api.partnerstack.com
 api.player.xcal.tv
 api.privy.com
 api.revenuads.com
@@ -1660,6 +1661,7 @@ bmwgroupgroupglobalall.112.2o7.net
 bmwgroupgroupglobaltest.112.2o7.net
 bmwmotor.112.2o7.net
 bmwusa.com.102.122.2o7.net
+bnc.lt
 bnppcardifbrazilacioneseuseguro.112.2o7.net
 bnymellonam.com.102.122.2o7.net
 bodelen.com
@@ -4639,6 +4641,7 @@ msjahanenterprise.com
 mslifelines.com.102.122.2o7.net
 msn.com.102.122.2o7.net
 msppl.hit.gemius.pl
+mssl.fwmrm.net
 mstar-ia.aimatch.com
 mtburn.com
 mtickets.shop
@@ -5180,6 +5183,7 @@ partnerads.ysm.yahoo.com
 partnercash.de
 partnerearning.com
 partnerprogramma.bol.com
+partnerstack.com
 parts-pros.com.102.122.2o7.net
 partstrain.102.122.2o7.net
 partstrain.122.2o7.net
@@ -5816,6 +5820,7 @@ redhat.102.122.2o7.net
 redhat.122.2o7.net
 redintelligence.net
 redirect.viglink.com
+redirector.googlevideo.com
 redirector.skimresources.com
 redshell.io
 reduxmedia.com
@@ -6060,6 +6065,7 @@ s.richaudience.com
 s.sharethis.com
 s.skimresources.com
 s.webtrends.com
+s.youtube.com
 s.zzcdn.me
 s1.fwmrm.net
 s1.listrakbi.com
@@ -6704,6 +6710,7 @@ t.felmat.net
 t.firstpromoter.com
 t.marketing.goindigo.in
 t.nc0.co
+t.pepperjamnetwork.com
 t.sharethis.com
 t.skimresources.com
 t.vacations.disneydestinations.com
