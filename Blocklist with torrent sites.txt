@@ -8158,6 +8158,7 @@ s.richaudience.com
 s.sharethis.com
 s.skimresources.com
 s.webtrends.com
+s.youtube.com
 s.yoooo.co
 s.youtube.com
 s.zzcdn.me
