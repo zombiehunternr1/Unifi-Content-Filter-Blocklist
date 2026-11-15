@@ -6491,6 +6491,7 @@ ss-01.com
 sskzlabs.com
 ssl-google-analytics.l.google.com
 ssl-tools.bongacams.com
+ssl.p.jwpcdn.com
 ssl.widgets.webengage.com
 sso-github.com
 ssp.inmobi.com
