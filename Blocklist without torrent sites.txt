@@ -336,6 +336,7 @@ acustomizedgift.com
 ad-analyze.jp
 ad-balancer.at
 ad-brix.com
+ad-delivery.instagram.com
 ad-delivery.net
 ad-flow.com
 ad-hatena.com
@@ -367,6 +368,7 @@ ad.flipboard.com
 ad.gt
 ad.gunosy.com
 ad.hbv.de
+ad.instagram.com
 ad.intl.xiaomi.com
 ad.jorte.com
 ad.jorudan.co.jp
@@ -626,6 +628,7 @@ ads.huawei.com
 ads.icloseli.com
 ads.indeed.com
 ads.inmobi.com
+ads.instagram.com
 ads.iosappsworld.com
 ads.jpost.com
 ads.kaldata.com
@@ -2795,6 +2798,7 @@ events.appsflyer.com
 events.attentivemobile.com
 events.brightline.tv
 events.claspws.tv
+
 events.launchdarkly.com
 events.popinfo.jp
 events.privy.com
@@ -3320,6 +3324,7 @@ gpladpl.hit.gemius.pl
 gracecore.com
 grandcapital.net
 grapeshot.co.uk
+graph-fallback.instagram.com
 gratis-sexkontakte.com
 gratisweb.com
 gravelly.net
@@ -4236,6 +4241,7 @@ logbak.hicloud.com
 logconfig.polarisoffice.com
 logger.foxitcloud.com
 logging.fishsticksgames.com
+logging.instagram.com
 logic.anzuinfra.com
 login.dotomi.com
 loginguvpl.com
@@ -7009,6 +7015,7 @@ tr-vcode-od.vivoglobal.com
 tr.112.2o7.net
 tr.facebook.com
 tr.hit.gemius.pl
+tr.instagram.com
 tr.snapchat.com
 tr6.snapchat.com
 trace.qq.com
